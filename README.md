@@ -47,7 +47,6 @@ Several methods for running your tests
 
 ##### Results
 - Results can be reviewed in terminal or in browser
-![alt text](https://github.com/justin-sb-fl/JS-Unit-Testing/blob/master/img/unit-test-output.jpg)
 ![alt text](/img/unit-test-output.jpg "Sample Unit Test Output")
 
 ---
