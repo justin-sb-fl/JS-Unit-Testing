@@ -231,9 +231,9 @@ This example test suite is testing functionality of a database helper
       });
     });
   });
+```
 
 
-
-   [Mocha Documentation]: <https://mochajs.org/#getting-started>
-   [Chai Documentation]: <http://chaijs.com/guide/styles/>
-   [Sinon Documentation]: <http://sinonjs.org/releases/v2.3.5/>
+[Mocha Documentation]: <https://mochajs.org/#getting-started>
+[Chai Documentation]: <http://chaijs.com/guide/styles/>
+[Sinon Documentation]: <http://sinonjs.org/releases/v2.3.5/>
